@@ -19,8 +19,8 @@ End the program
 ## PROGRAM:
 \*
 # Program for copying contents from one file to another
-# Developed by: V. Yogesh
-# Register number: 212223230250
+# Developed by: VIGNESH M
+# Register number: 212223240176
 \*
 def copy(fname,new):
 with open(fname,"r") as fp1:
